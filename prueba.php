@@ -1,4 +1,4 @@
 <h1>
     hola mundo
-    el departamente de voltaje mola
+    division de voltaje
 </h1>
